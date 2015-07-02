@@ -7,7 +7,6 @@
     <author email="ti@cwork.com.br" href="http://www.cwork.com.br">Cwork</author>
 
     <icon gap:platform="android" height="96" src="res/icon/android/android.png" width="96"/>
-    <icon src="icon.png" width="57" height="57" />
 	<icon src="ios/57.png" gap:platform="ios" width="57" height="57" />
 	<icon src="ios/72.png" gap:platform="ios" width="72" height="72" />
 	<icon src="ios/114.png" gap:platform="ios" width="114" height="114" />
