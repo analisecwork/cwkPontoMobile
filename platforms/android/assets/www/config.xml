@@ -57,5 +57,4 @@
     <preference name="fullscreen" value="false"/>
     <preference name="DisallowOverscroll" value="true"/>
 
-    <access origin="*"/>
 </widget>
