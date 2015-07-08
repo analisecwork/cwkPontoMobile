@@ -46,6 +46,7 @@
 <gap:splash src="res/screen/ios/22081242.png" gap:platform="ios" width="2208" height="1242" />
 <gap:splash src="res/screen/ios/7681024.png" gap:platform="ios" width="768" height="1024" />
 <gap:splash src="res/screen/ios/1024768.png" gap:platform="ios" width="1024" height="768" />
+<gap:splash src="res/screen/ios/1136640.png" gap:platform="ios" width="1136" height="640" />
 <gap:splash src="res/screen/ios/15362048.png" gap:platform="ios" width="1536" height="2048" />
 <gap:splash src="res/screen/ios/20481536.png" gap:platform="ios" width="2048" height="1536" />
 
